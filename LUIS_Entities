@@ -1,1 +1,39 @@
-These are basic LUIS Entities:    
+These are basic LUIS Entities:    (#working on this file)
+
+Working with Entities is an important part, LUIS consist of many types of Entities.
+
+--> Following are Prebuilt Entities:
+phonenumber   
+percentage  
+ordinal 
+number 
+
+
+--> Following are Domain Entities:
+Calendar.Location
+Calendar.Subject
+Communication.ContactName 
+Entertainment.Genre 
+Entertainment.Language 
+Entertainment.Title
+Events.Address
+Events.Name 
+Events.PlaceName 
+Events.PlaceType
+
+search
+review 
+recommend List  
+real_fake 
+question 
+product 
+movie 
+wait 
+url 
+temperature 
+ 
+
+
+
+Will soon add many other entities.
+Thanks You :)
