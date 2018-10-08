@@ -20,7 +20,16 @@ Events.Address
 Events.Name 
 Events.PlaceName 
 Events.PlaceType
+Events.Type 
+MovieTickets.MovieTitle 
+Places.DestinationAddress 
+Places.DestinationPlaceName 
+Translate.Text 
+Weather.Location 
 
+
+
+--> These are my custom Entities:
 search
 review 
 recommend List  
