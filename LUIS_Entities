@@ -1,6 +1,7 @@
 These are basic LUIS Entities:    (#working on this file)
 
 Working with Entities is an important part, LUIS consist of many types of Entities.
+I have been using Prebuilt Entity, Domain Entity, Composite Entity, Hierarchical Entity, etc.
 
 --> Following are Prebuilt Entities:
 phonenumber   
