@@ -8,6 +8,13 @@ phonenumber
 percentage  
 ordinal 
 number 
+url
+ordinal 
+number 
+money
+email datetimeV2
+age 
+
 
 
 --> Following are Domain Entities:
