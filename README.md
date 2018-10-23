@@ -6,4 +6,7 @@ I am also adding common Entities.
 
 Add intents and entities to your LUIS app and then code responses for particular intent.
 
+Use this link to create usefull Phrase Lists for your Bot:
+https://blogs.msdn.microsoft.com/benjaminperkins/2016/12/07/top-10-must-have-phrase-list-features-for-your-chatbot-or-any-bot-luis/
+
 Thanks.
