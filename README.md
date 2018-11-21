@@ -11,4 +11,6 @@ Note: One of the best way to recognize user intent is to use proper entities alo
 Use this link to create usefull Phrase Lists for your Bot:
 https://blogs.msdn.microsoft.com/benjaminperkins/2016/12/07/top-10-must-have-phrase-list-features-for-your-chatbot-or-any-bot-luis/
 
+Note: When newly created, let all the uncategorised user intents reach into "None", and keep checking for the same intent for newly asked questions, and then filter out those into categories or create a new one. 
+
 Thanks.
