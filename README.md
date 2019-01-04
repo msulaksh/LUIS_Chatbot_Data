@@ -16,3 +16,4 @@ Note: When newly created, let all the uncategorised user intents reach into "Non
 Add/Edit data, Train your LUIS model and then properly publish it, unless you publish it, no changes will be reflected.
 
 Thanks.
+Happy Coding.
