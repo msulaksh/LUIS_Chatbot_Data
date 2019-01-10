@@ -15,5 +15,7 @@ Note: When newly created, let all the uncategorised user intents reach into "Non
 
 Add/Edit data, Train your LUIS model and then properly publish it, unless you publish it, no changes will be reflected.
 
+As of January 2019, I am exploring on implementing mongodb as a primary storage for users sessions over chatbot.
+
 Thanks.
 Happy Coding.
